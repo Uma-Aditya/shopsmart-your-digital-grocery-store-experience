@@ -112,12 +112,6 @@ Shopez-E-Commerce-MERN/
 
 ---
 
-## 🧪 Sample Admin & User Credentials (Optional)
-
-> You can use `seed.js` to populate your database with default admin and product data.
-
----
-
 ## 🙌 Contributing
 
 Pull requests are welcome! If you find a bug or want to suggest an enhancement, please open an issue or PR.
