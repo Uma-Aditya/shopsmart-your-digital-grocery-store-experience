@@ -128,9 +128,9 @@ Pull requests are welcome! If you find a bug or want to suggest an enhancement, 
 
 For questions or collaborations:
 
-**Author**: [Your Name]  
-📧 Email: your.email@example.com  
-📁 Portfolio (Optional): [Link here]
+**Author**: UMA ADITYA 
+📧 Email: mohanaditya706@gmail.com 
+
 
 ---
 
@@ -138,9 +138,5 @@ For questions or collaborations:
 
 This project is licensed under the MIT License.
 
----
 
-```
-
-Let me know if you want badges, deployment notes, or API endpoint documentation added next.
 
