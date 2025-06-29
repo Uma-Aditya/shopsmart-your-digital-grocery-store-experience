@@ -1,6 +1,6 @@
 # 🛒 shopsmart-your-digital-grocery-store-experience
 
-Shopez is a full-stack E-Commerce web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project includes both user and admin dashboards, product listing, cart functionality, and order management.
+shopsmart-your-digital-grocery-store-experience is a full-stack E-Commerce web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project includes both user and admin dashboards, product listing, cart functionality, and order management.
 
 ---
 
@@ -36,7 +36,7 @@ Shopez is a full-stack E-Commerce web application built using the MERN stack (Mo
 ## 📁 Project Structure
 
 ```
-Shopez-E-Commerce-MERN/
+shopsmart-your-digital-grocery-store-experience-E-Commerce-MERN/
 │
 ├── client/                  # React Frontend
 │   ├── public/
@@ -78,8 +78,8 @@ Shopez-E-Commerce-MERN/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Shopez-E-Commerce-MERN.git
-   cd Shopez-E-Commerce-MERN
+   git clone https://github.com/your-username/shopsmart-your-digital-grocery-store-experience-E-Commerce-MERN.git
+   cd shopsmart-your-digital-grocery-store-experience-E-Commerce-MERN
    ```
 
 2. **Install client dependencies**
