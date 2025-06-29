@@ -1,4 +1,4 @@
-# 🛒 Shopez E-Commerce MERN
+# 🛒 shopsmart-your-digital-grocery-store-experience
 
 Shopez is a full-stack E-Commerce web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project includes both user and admin dashboards, product listing, cart functionality, and order management.
 
